@@ -50,7 +50,25 @@ li a.active {
   <li><a href="http://htmlpreview.github.io/?https://github.com/BarkIndutress/AppInventor/blob/master/Code">App Inventor</a></li>
   <li><a href="http://htmlpreview.github.io/?https://github.com/BarkIndutress/AboutUs/blob/master/Code">About Us</a></li>
 </ul>
+Student Bio <br>
+<br><br>
+<table border="0">
+<tr>
+	<td>
+	<img src="stu.jpeg">
+	</td>
 
+	<td valign=top>
+	<b>About:</b><br> al;skkkfjasl;kfjdal;ksfj;ajd;fjas;lfasfja;lfjsjfajslfkasjjjjjjj
+	</td>
+</tr>
+</table>
+<br> 
+  <br>
+   <br>
+
+
+Resume(this will be a download pdf)
 
 </body>
 </html>
