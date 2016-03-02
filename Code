@@ -8,6 +8,10 @@ body {
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 }
+div.layout {
+	max-width: 600px;
+	margin: auto;
+}
 </style>
 </head>
 <body>
@@ -67,8 +71,8 @@ Student Bio <br>
 	</td>
 
 	<td valign=top>
-	<b>About:</b><br> <textarea wrap="soft">We type on our keyboards, which put things on the screen. 
-	 We put these things into special orders to make the computer do cool things. </textarea>
+	<b>About:</b><br> <div class="layout"> We type on our keyboards, which puts things on the screen. 
+	 We put these things into special orders to make the computer do cool things. </div>
 	</td>
 </tr>
 </table>
