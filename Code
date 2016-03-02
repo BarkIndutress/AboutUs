@@ -61,7 +61,7 @@ Student Bio <br>
 
 	<td valign=top>
 	<b>About:</b><br> We type on our keyboards, which put things on the screen. 
-	We put these things into special orders to make the computer do cool things.
+	<textarea wrat="soft"> We put these things into special orders to make the computer do cool things.
 	</td>
 </tr>
 </table>
