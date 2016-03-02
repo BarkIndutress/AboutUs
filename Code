@@ -9,7 +9,7 @@ body {
 	background-attachment: fixed;
 }
 div.layout {
-	max-width: 600px;
+	max-width: 350px;
 	margin: auto;
 }
 </style>
